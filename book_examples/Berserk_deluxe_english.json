@@ -1,0 +1,45 @@
+{
+  "publishers": ["Dark Horse Manga"],
+  "source_records": ["amazon:1506711987", "bwb:9781506711980"],
+  "title": "Berserk Deluxe Volume 1",
+  "number_of_pages": 696,
+  "covers": [8746964],
+  "publish_date": "Mar 26, 2019",
+  "key": "/books/OL27246922M",
+  "authors": [
+    {
+      "key": "/authors/OL1420926A"
+    },
+    {
+      "key": "/authors/OL3105377A"
+    }
+  ],
+  "works": [
+    {
+      "key": "/works/OL20066940W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "identifiers": {},
+  "classifications": {},
+  "notes": "Collects *Berserk* volumes #1-3",
+  "series": ["Berserk Deluxe #1"],
+  "other_titles": ["Berserk Deluxe Edition Volume 1"],
+  "translation_of": "Berserk Volumes 1-3",
+  "physical_format": "Hardcover",
+  "isbn_10": ["1506711987"],
+  "isbn_13": ["9781506711980"],
+  "lc_classifications": ["PN6790.J34B48313"],
+  "latest_revision": 6,
+  "revision": 6,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2019-07-25T22:21:15.576125"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-05-08T23:10:10.927863"
+  }
+}

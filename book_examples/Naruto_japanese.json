@@ -1,0 +1,50 @@
+{
+  "publishers": ["Shueisha"],
+  "identifiers": {
+    "goodreads": ["1363613"],
+    "librarything": ["17603"]
+  },
+  "weight": "1.4 ounces",
+  "series": ["NARUTO (1)"],
+  "covers": [1041545],
+  "local_id": ["urn:sfpl:31223082681579"],
+  "physical_format": "Comic",
+  "key": "/books/OL9030187M",
+  "authors": [
+    {
+      "key": "/authors/OL2980579A"
+    }
+  ],
+  "edition_name": "Japanese edition",
+  "source_records": [
+    "marc:marc_openlibraries_sanfranciscopubliclibrary/sfpl_chq_2018_12_24_run03.mrc:309792181:1777",
+    "amazon:4088728408",
+    "marc:marc_columbia/Columbia-extract-20221130-024.mrc:10403707:1298"
+  ],
+  "title": "Naruto, Volume 1 (Japanese Edition)",
+  "number_of_pages": 187,
+  "isbn_13": ["9784088728407"],
+  "isbn_10": ["4088728408"],
+  "publish_date": "March 1, 2000",
+  "works": [
+    {
+      "key": "/works/OL8756032W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "physical_dimensions": "6.8 x 4.5 x 0.6 inches",
+  "lc_classifications": ["PN6790.J33 K575 2000"],
+  "oclc_numbers": ["923853145"],
+  "latest_revision": 9,
+  "revision": 9,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-30T09:38:13.731961"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-12-18T23:14:15.354222"
+  }
+}

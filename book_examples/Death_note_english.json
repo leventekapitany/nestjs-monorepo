@@ -1,0 +1,46 @@
+{
+  "publishers": ["Viz Media LLC"],
+  "classifications": {},
+  "source_records": ["bwb:9781421539652", "idb:9781421539652"],
+  "title": "Death Note",
+  "identifiers": {},
+  "covers": [8745664],
+  "publish_date": "2011",
+  "key": "/books/OL27242281M",
+  "works": [
+    {
+      "key": "/works/OL17402651W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "physical_format": "Paperback",
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "subtitle": "Black Edition, Vol. 2",
+  "notes": "Collects **Death Note** volumes #3-4",
+  "series": ["Death Note: Black Edition #2"],
+  "translated_from": [
+    {
+      "key": "/languages/jpn"
+    }
+  ],
+  "isbn_10": ["1421539659"],
+  "isbn_13": ["9781421539652"],
+  "lc_classifications": ["PN6790"],
+  "number_of_pages": 396,
+  "latest_revision": 9,
+  "revision": 9,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2019-07-23T03:58:42.575027"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-12-20T02:09:12.433144"
+  }
+}

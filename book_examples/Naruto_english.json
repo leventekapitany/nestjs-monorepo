@@ -1,0 +1,61 @@
+{
+  "publishers": ["VIZ Media LLC"],
+  "number_of_pages": 192,
+  "ia_box_id": ["IA135901"],
+  "weight": "7 ounces",
+  "isbn_10": ["1569319006"],
+  "series": ["Naruto (English) (1)"],
+  "covers": [813899],
+  "physical_format": "Comic",
+  "ia_loaded_id": ["naruto00kish_7"],
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2012-08-17T10:32:14.473044"
+  },
+  "latest_revision": 8,
+  "key": "/books/OL8692998M",
+  "authors": [
+    {
+      "key": "/authors/OL2980579A"
+    }
+  ],
+  "ocaid": "naruto00kish_7",
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "source_records": ["ia:naruto00kish_7"],
+  "title": "Naruto, Vol. 1",
+  "identifiers": {
+    "goodreads": ["204042"],
+    "librarything": ["17603"]
+  },
+  "isbn_13": ["9781569319000"],
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-30T08:14:56.482104"
+  },
+  "edition_name": "1 edition",
+  "subjects": [
+    "General & Literary Fiction",
+    "Graphic novels",
+    "Graphic Novels - Manga",
+    "Comics & Graphic Novels",
+    "Graphic Novels-Manga",
+    "Fantasy",
+    "Fiction",
+    "Comics & Graphic Novels / Graphic Novels / Manga"
+  ],
+  "publish_date": "August 6, 2003",
+  "works": [
+    {
+      "key": "/works/OL8756055W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "physical_dimensions": "7.5 x 4.8 x 0.7 inches",
+  "revision": 8
+}

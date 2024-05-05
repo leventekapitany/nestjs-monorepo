@@ -1,0 +1,4 @@
+{
+  "npm.packageManager": "pnpm",
+  "typescript.preferences.importModuleSpecifier": "non-relative"
+}

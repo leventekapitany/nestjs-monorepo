@@ -1,0 +1,55 @@
+{
+  "publishers": ["VIZ Media LLC"],
+  "identifiers": {
+    "amazon": ["1421599775"]
+  },
+  "subtitle": "Fullmetal Edition, Vol. 1",
+  "covers": [8843224],
+  "physical_format": "hardcover",
+  "full_title": "Fullmetal Alchemist Fullmetal Edition, Vol. 1",
+  "key": "/books/OL27379966M",
+  "authors": [
+    {
+      "key": "/authors/OL2980588A"
+    }
+  ],
+  "source_records": ["amazon:1421599775", "bwb:9781421599779"],
+  "title": "Fullmetal Alchemist",
+  "number_of_pages": 280,
+  "publish_date": "May 08, 2018",
+  "works": [
+    {
+      "key": "/works/OL8756258W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "classifications": {},
+  "isbn_10": ["1421599775"],
+  "isbn_13": ["9781421599779"],
+  "series": ["Fullmetal Alchemist: Fullmetal Edition #1"],
+  "translated_from": [
+    {
+      "key": "/languages/jpn"
+    }
+  ],
+  "edition_name": "English edition",
+  "translation_of": "鋼の錬金術師 完全版 1巻",
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "lc_classifications": ["PN6790.J33A7313 2018"],
+  "latest_revision": 5,
+  "revision": 5,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2019-10-08T03:34:13.444621"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-04-14T08:13:05.966497"
+  }
+}
